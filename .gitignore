@@ -1,0 +1,16 @@
+.bash_*
+.gitconfig
+.lesshst
+.motd_*
+.profile
+.config/
+.cache/
+*.zip
+final_check.*
+MT26166/
+RollNo/
+BookManagement/
+demo/
+demo1/
+oopd-a1/
+q3_improved/
