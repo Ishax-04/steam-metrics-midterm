@@ -32,10 +32,7 @@ All analysis adheres strictly to pre-registered confirmatory protocols:
 ```text
 .
 ├── steam_metrics_analysis_final.ipynb   # Main reproducible Jupyter notebook (EDA + Tests)
-├── verify_final_notebook.py             # Automated TA verification & reproducibility test suite
-├── CSE558_Project_Report_Template.tex   # LaTeX source code for the 8-page project report
 ├── a_steam_data_2021_2025.csv           # Raw Steam games catalog dataset (65,521 records)
-├── steam_data_2021_2025.csv             # Byte-identical backup of raw dataset
 └── README.md                            # Project documentation, methodology, and execution guide
 ```
 
